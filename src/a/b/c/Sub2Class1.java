@@ -7,5 +7,6 @@ package a.b.c;
  * *******************************
  */
 public class Sub2Class1 {
+    String id;
     //
 }
