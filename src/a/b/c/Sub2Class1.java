@@ -8,5 +8,13 @@ package a.b.c;
  */
 public class Sub2Class1 {
     String id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
     //
 }
